@@ -1,0 +1,10 @@
+tkinter
+azure
+matplotlib
+msrest
+array
+os
+PIL
+sys
+time
+json
